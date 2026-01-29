@@ -1,4 +1,4 @@
-#  Weather App
+#  FlixLookUp 🎬
 
 ## 📝 Project Description
 A web application that allows users to search for movies and view essential information such as title, release year, and poster images using a public movie API.
