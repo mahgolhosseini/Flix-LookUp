@@ -1,22 +1,32 @@
 FlixLookUp 🎬
-
 📝 Project Description
-A web application that allows users to search for movies and view basic information such as title, release year, and poster images using a public movie API.
-Built with HTML, CSS, and JavaScript, this app provides a clean and responsive interface for exploring movies.
+
+A web application that allows users to search for movies and view essential information such as title, release year, and poster images using a public movie API.
+Built with HTML, CSS, and JavaScript, this app helps users quickly explore and discover movies through a clean and responsive interface.
 
 🚀 Features
+
 Search movies by name
-Display movie posters, titles, and release years
+
+Display movie title, release year, and poster
+
 Real-time data fetched from an external API
+
 Responsive grid layout for mobile and desktop
-User-friendly UI with header and footer layout
+
+Clean UI with styled header and footer
 
 💻 Technologies Used
+
 HTML5
+
 CSS3 (Flexbox, Grid)
+
 JavaScript (ES6)
-Fetch API for asynchronous data handling
-OMDb API
+
+Fetch API for real-time data
+
+Movie API (OMDb API)
 
 🌐 Live Demo
-https://mahgolhosseini.github.io/Flix-LookUp/
+
