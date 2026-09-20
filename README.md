@@ -5,23 +5,17 @@ A web application that allows users to search for movies and view essential info
 Built with HTML, CSS, and JavaScript, this app helps users quickly explore and discover movies through a clean and responsive interface.
 
 ## 🚀 Features
-- Upload PDF documents
-- Extract text from PDF files
-- Ask questions about the uploaded document
-- Generate AI-powered summaries
-- Identify the main topic of the document
-- Download the generated summary as a PDF
-- Responsive layout for mobile and desktop
-- Clean and user-friendly interface
-
+- Search movies by name
+- Display movie title, release year, and poster
+- Real-time data fetched from an external API
+- Responsive grid layout for mobile and desktop
+- Clean UI with styled header and footer
 ## 💻 Technologies Used
 - HTML5
 - CSS3 (Flexbox, Grid)
 - JavaScript (ES6)
-- PDF.js for PDF text extraction
-- jsPDF for generating PDF summaries
-- Google Gemini API for AI responses
-- Cloudflare Workers for secure API communication
+- Fetch API for real-time data
+- Movie API (OMDb API)
 
 ## 🌐 Live Demo
 https://mahgolhosseini.github.io/Flix-LookUp/
